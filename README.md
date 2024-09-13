@@ -1,16 +1,17 @@
-## Hi there 👋
+![Banner Presentation](image.png)
 
-<!--
-**Wilinton-gif/Wilinton-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Estudiantes de matemáticas* | *Interés en el analisis de datos y Machine Learning* | *Ferretería Real* 🔧
+***
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilinton-montes-ramirez-424459309)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/wilintonmontes)
 
-Here are some ideas to get you started:
+## *Datos rápidos sobre mí*
+- 🔭 Estoy aprendiendo técnicas de análisis y visualización de datos.
+- 🌱 Estoy implementando modelos matemáticos de **Machine Learning**.
+- 👯 Contacto: wmontes@unal.edu.co 📧
+- ⚡ ¡Colombia va a ganar el mundial! ⚽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Algunas herramientas:*
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
